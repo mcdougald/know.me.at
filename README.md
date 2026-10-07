@@ -30,7 +30,7 @@ Know is a team wiki and knowledge base for small teams: spaces, collections and 
 
 ## Part of the me.at family
 
-know.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+know.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
